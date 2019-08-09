@@ -1,2 +1,2 @@
-# BootcampPoster
-Animation Poster
+permalink: /index.html
+
